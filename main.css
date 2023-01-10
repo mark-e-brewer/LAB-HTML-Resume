@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+article {
+  padding: 8px;
+}
+
+#job-one {
+font-family: 'Courier New', Courier;
+border: 2px dashed darkblue;
+ }
+
+ #job-two {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  border: 3px dotted darkgoldenrod;
+ }
+
+#job-three {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+  border: 4px solid darkred;
+}
+
+h2 {
+  color: darkgrey;
+}
